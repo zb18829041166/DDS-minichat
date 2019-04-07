@@ -1,0 +1,6 @@
+struct MiniChat
+{
+	string<32> MiniChat;
+};//@top-level true
+
+
